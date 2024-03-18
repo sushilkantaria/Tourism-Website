@@ -1,0 +1,125 @@
+/* Global Styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+.home-page {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Hero Section */
+.hero-section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+
+.overlay h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.overlay p {
+  font-size: 1.5rem;
+  margin: 10px 0 20px;
+  color: rgb(150, 145, 145);
+}
+
+.explore-btn {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background: #e1672f;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.explore-btn:hover {
+  background: #ffa500;
+}
+
+/* Navbar Styling */
+.navbar-homepage {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 5px 10px;
+  z-index: 1000;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-homepage {
+  font-size: 1.8rem;
+  color: white;
+  font-weight: bold;
+  margin-left: 40px;
+  font-family: serif;
+  font-size: 30px;
+}
+
+.nav-links-homepage {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  margin-right: 90px;
+  font-size: 10px;
+}
+
+.nav-links-homepage li {
+  font-size: 1.2rem;
+}
+
+.nav-links-homepage a {
+  text-decoration: none;
+  color: white;
+  transition: color 0.3s ease;
+  font-family: serif;
+}
+
+.nav-links-homepage a:hover {
+  color: #ffa500; 
+}
+
+.navbar-transparent {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.navbar-black {
+  background-color: black;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
