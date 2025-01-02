@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Tourism-Website/static/css/main.03462baa.css",
+    "main.js": "/Tourism-Website/static/js/main.53c48502.js",
+    "static/js/453.8ab44547.chunk.js": "/Tourism-Website/static/js/453.8ab44547.chunk.js",
+    "static/media/srilankabg.mp4": "/Tourism-Website/static/media/srilankabg.c6966f1b2f4a60049a54.mp4",
+    "static/media/yalabg.webp": "/Tourism-Website/static/media/yalabg.c2b7acf377619379b5f0.webp",
+    "static/media/ellabg.jpeg": "/Tourism-Website/static/media/ellabg.7d6d19098f683dd34015.jpeg",
+    "static/media/sigiriyabg.jpg": "/Tourism-Website/static/media/sigiriyabg.86e82b458301f5625cab.jpg",
+    "static/media/colombobg3.jpeg": "/Tourism-Website/static/media/colombobg3.b5b64ad8011386f9fb1c.jpeg",
+    "static/media/kandybg.jpeg": "/Tourism-Website/static/media/kandybg.aa852f4f26ae95e48156.jpeg",
+    "static/media/gallebg.jpeg": "/Tourism-Website/static/media/gallebg.72ef8b6dea215d1d3440.jpeg",
+    "static/media/nuwarabg.jpeg": "/Tourism-Website/static/media/nuwarabg.5d697d312c2ada2667f8.jpeg",
+    "static/media/trinbg.jpg": "/Tourism-Website/static/media/trinbg.470c8b42eaf00e8b14b9.jpg",
+    "static/media/jaffnabg.png": "/Tourism-Website/static/media/jaffnabg.2cf203483be86d1853d0.png",
+    "static/media/anuradhabg.jpeg": "/Tourism-Website/static/media/anuradhabg.084efab691d3a9f6238e.jpeg",
+    "static/media/ella.jpeg": "/Tourism-Website/static/media/ella.ab9a824aa921439f896d.jpeg",
+    "static/media/trin.jpeg": "/Tourism-Website/static/media/trin.d330b1ca8aa9c689cbc3.jpeg",
+    "static/media/jaffna.jpeg": "/Tourism-Website/static/media/jaffna.c00f59f8ddac3659b86b.jpeg",
+    "static/media/anuradha.jpeg": "/Tourism-Website/static/media/anuradha.e10510ec74f5b1165c74.jpeg",
+    "static/media/sigiriya.jpeg": "/Tourism-Website/static/media/sigiriya.a8f5d6f948df4588dc30.jpeg",
+    "static/media/yala.jpeg": "/Tourism-Website/static/media/yala.68a7b6c88f752e161442.jpeg",
+    "static/media/Colombo.jpg": "/Tourism-Website/static/media/Colombo.2e15bd6311697cfbf5d0.jpg",
+    "static/media/galle.jpeg": "/Tourism-Website/static/media/galle.b8f7eb7757c34ce82f1a.jpeg",
+    "static/media/kandy.jpeg": "/Tourism-Website/static/media/kandy.c422e7255b646ef33c8b.jpeg",
+    "static/media/nuwara.jpeg": "/Tourism-Website/static/media/nuwara.45d5ead48b2b4ceeca2a.jpeg",
+    "index.html": "/Tourism-Website/index.html",
+    "main.03462baa.css.map": "/Tourism-Website/static/css/main.03462baa.css.map",
+    "main.53c48502.js.map": "/Tourism-Website/static/js/main.53c48502.js.map",
+    "453.8ab44547.chunk.js.map": "/Tourism-Website/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03462baa.css",
+    "static/js/main.53c48502.js"
+  ]
+}
